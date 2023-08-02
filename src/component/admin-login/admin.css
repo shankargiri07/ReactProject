@@ -1,0 +1,8 @@
+.adminLoginImage {
+    background-image:url(adinlogin.png);
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 10px;
+}

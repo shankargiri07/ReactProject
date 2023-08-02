@@ -1,0 +1,7 @@
+.registerImage{
+    background-image:url(re.jpg);
+    height: 720px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

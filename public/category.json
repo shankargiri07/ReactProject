@@ -1,0 +1,8 @@
+{
+    "Photo":"samsung.jpg",
+    "Name":"Sony Speaker",
+    "Price": 5500.22,
+    "Stock": true,
+    "Shipped": ["Delhi","Odisha"],
+    "Rating":{"Rate":4.5, "Count":450}
+}

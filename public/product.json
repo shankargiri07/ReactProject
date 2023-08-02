@@ -1,0 +1,8 @@
+{
+    "Photo":"samsung.jpg",
+    "Name": "Samsung TV",
+    "Price": 45000.22,
+    "Stock": true,
+    "ShippedTo": ["Delhi", "Odisha"],
+    "Rating": {"Rate": 4.2, "Count": 6700}
+}

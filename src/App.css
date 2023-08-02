@@ -1,0 +1,35 @@
+.UserEmail{
+  border: 2px solid white;
+  outline: none;
+  height: 40px;
+  width: 254px;
+  border-radius: 6px;
+  padding-left: 8px;
+}
+.loginMainCotainer {
+  position: relative;
+}
+.loginContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.registerMainContainer {
+  position: relative;
+}
+.registerContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.mainAdminContainer{
+  position: relative;
+}
+.adminContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

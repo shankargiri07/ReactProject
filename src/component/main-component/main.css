@@ -1,0 +1,11 @@
+
+.mainComnent {
+    margin-top: 10px;
+    background-image: linear-gradient(98.24deg, #1d0005c7 14.75%,rgba(0, 8, 29, 0.242) 100%),url("back3.jpg"), url(back3.jpg);
+    height: 720px;
+    color: white;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
